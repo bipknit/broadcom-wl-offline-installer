@@ -1,5 +1,5 @@
 # broadcom-wl-offline-installer
-An installer to get that damn bcm4360 working
+An installer to get that damn wl kernel module working without internet access with other methods.
 
 All of the rpm files were downloaded from pkgs.org
 
