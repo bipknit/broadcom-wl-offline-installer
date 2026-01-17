@@ -1,4 +1,4 @@
-# bcm4360-offline-installer
+# broadcom-wl-offline-installer
 An installer to get that damn bcm4360 working
 
 All of the rpm files were downloaded from pkgs.org
